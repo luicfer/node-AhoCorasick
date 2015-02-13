@@ -1,7 +1,7 @@
 # node-AhoCorasick
+[![Build Status](https://travis-ci.org/luicfer/node-AhoCorasick.svg?branch=master)](https://travis-ci.org/luicfer/node-AhoCorasick)[![Coverage Status](https://coveralls.io/repos/luicfer/node-AhoCorasick/badge.svg)](https://coveralls.io/r/luicfer/node-AhoCorasick)
 
 Aho–Corasick string matching algorithm
-[![Build Status](https://travis-ci.org/luicfer/node-AhoCorasick.svg?branch=master)](https://travis-ci.org/luicfer/node-AhoCorasick)[![Coverage Status](https://coveralls.io/repos/luicfer/node-AhoCorasick/badge.svg)](https://coveralls.io/r/luicfer/node-AhoCorasick)
 # Installation
 
 ```bash
