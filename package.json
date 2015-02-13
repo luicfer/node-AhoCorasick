@@ -1,0 +1,33 @@
+{
+  "name": "node-AhoCorasick",
+  "version": "0.0.1",
+  "description": "simple AhoCorasick",
+  "main": "index.js",
+  "dependencies": {
+    "aho-corasick-automaton": "0.0.0",
+    "array-trie": "^1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "mocha": "^2.1.0",
+    "should": "^5.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luicfer/node-AhoCorasick.git"
+  },
+  "keywords": [
+    "AhoCorasick",
+    "String",
+    "match"
+  ],
+  "author": "luicfer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luicfer/node-AhoCorasick/issues"
+  },
+  "homepage": "https://github.com/luicfer/node-AhoCorasick"
+}
