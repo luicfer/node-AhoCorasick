@@ -1,6 +1,8 @@
 # node-AhoCorasick
 [![Build Status](https://travis-ci.org/luicfer/node-AhoCorasick.svg?branch=master)](https://travis-ci.org/luicfer/node-AhoCorasick)
 [![Coverage Status](https://coveralls.io/repos/luicfer/node-AhoCorasick/badge.svg)](https://coveralls.io/r/luicfer/node-AhoCorasick)
+[![Dependency Status](https://david-dm.org/luicfer/node-AhoCorasick.svg)](https://david-dm.org/luicfer/node-AhoCorasick)
+[![devDependency Status](https://david-dm.org/luicfer/node-AhoCorasick/dev-status.svg)](https://david-dm.org/luicfer/node-AhoCorasick#info=devDependencies)
 
 Aho–Corasick string matching algorithm
 # Installation
